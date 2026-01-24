@@ -13,9 +13,9 @@
 # you will see them accessed via {{ site.title }}, {{ site.email }}, and so on.
 # You can create any custom variable you would like, and they will be accessible
 # in the templates via {{ site.myvariable }}.
-title: Jeffrey Tse's Blog
-email: jeffreytse.mail@gmail.com
-author: jeffreytse
+title: 青狐
+email: bndxjmy@gmail.com
+author: 白慕南
 copyright: Copyright © 2008-2020
 description: >- # this means to ignore newlines until "baseurl:"
   This is a very personal blog. I don't write blogs for anyone, but
@@ -25,7 +25,7 @@ description: >- # this means to ignore newlines until "baseurl:"
   great help if you give and teach your knowledge and thoughts to me.
 
 baseurl: "" # the subpath of your site, e.g. /blog
-url: "https://jeffreytse.net" # the base hostname & protocol for your site, e.g. http://example.com
+url: "https://fengxiqinhu.github.io/" # the base hostname & protocol for your site, e.g. http://example.com
 favicon: "/favicon.png" # the favicon for your site
 
 # Yat date format
@@ -40,8 +40,8 @@ yat:
 # header_transparent: false
 
 # Google analytics - GA4
-google_analytics: "G-N54MN13CMZ"
-enableDNT: "false"
+#google_analytics: "G-N54MN13CMZ"
+#enableDNT: "false"
 
 # If you want to generate website sitemap, you can set true
 sitemap: true

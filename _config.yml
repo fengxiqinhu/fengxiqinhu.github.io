@@ -47,7 +47,7 @@ yat:
 sitemap: true
 
 # If you want to change site language, you can set lang option
-# lang: "en"  # default lang is en
+lang: "zh-CN"  # default lang is en
 
 # You can choose a theme color
 # Default theme colors as below:
@@ -74,7 +74,7 @@ paginate: 10
 
 # Disqus comments
 disqus:
-  shortname: "jeffreytse"
+  shortname: "胡"
 
 # Gitment comments
 # gitment:

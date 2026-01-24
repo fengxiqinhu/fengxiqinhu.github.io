@@ -29,9 +29,10 @@ baseurl: "/fengxiqinhu.github.io/" # the subpath of your site, e.g. /blog
 url: "https://fengxiqinhu.github.io" # the base hostname & protocol for your site, e.g. http://example.com
 twitter_username: jekyllrb
 github_username:  jekyll
+markdown: kramdown
 
 # Build settings
-theme: minima
+theme: jekyll-theme-minima
 plugins:
   - jekyll-feed
 #remote_theme: pages-themes/slate@v0.2.0

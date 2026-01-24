@@ -66,7 +66,7 @@ header_pages:
   - index.html
   - archives.html
   - categories.html
-  - tags.html
+  - 标签.html
   - about.md
 
 # Pagination setting

@@ -1,22 +1,22 @@
 ---
-layout: post
-title: Welcome to Jekyll!
-subtitle: A awesome static site generator.
-author: Jeffrey
-categories: jekyll
+layout: post  #布局
+title: Welcome to Jekyll! #标题
+subtitle: A awesome static site generator.  #副标题
+author: Jeffrey # 作者
+categories: jekyll #分类
 banner:
-  video: https://vjs.zencdn.net/v/oceans.mp4
-  loop: true
-  volume: 0.8
-  start_at: 8.5
-  image: https://bit.ly/3xTmdUP
-  opacity: 0.618
-  background: "#000"
-  height: "100vh"
-  min_height: "38vh"
+  video: https://vjs.zencdn.net/v/oceans.mp4  #视频背景url
+  loop: true  #视频循环播放
+  volume: 0.8 #音量80%
+  start_at: 8.5 #从0.8s处播放
+  image: https://bit.ly/3xTmdUP #图片url
+  opacity: 0.618  #透明度61.8%
+  background: "#000"  #背景色黑色
+  height: "100vh" #高度100%视口
+  min_height: "38vh"  #狂宽度38%
   heading_style: "font-size: 4.25em; font-weight: bold; text-decoration: underline"
   subheading_style: "color: gold"
-tags: jekyll theme yat
+tags: jekyll theme yat  #标签
 top: 1
 sidebar: []
 ---
